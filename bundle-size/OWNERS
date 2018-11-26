@@ -1,0 +1,7 @@
+# List of GitHub usernames allowed to approve bundle size increases. See
+# https://github.com/ampproject/amp-github-apps/blob/master/bundle-size/app.js
+# for details.
+choumx
+danielrozenberg
+jridgewell
+rsimha
